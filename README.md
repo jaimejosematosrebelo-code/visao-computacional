@@ -1,1 +1,1 @@
-# visao-computacional
+# visao-computacional-yolo
